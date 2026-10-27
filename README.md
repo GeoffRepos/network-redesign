@@ -1,4 +1,4 @@
-# Northgate Enterprise Network Redesign
+# Network Redesign
 # Overview
 This project demonstrates the design and implementation of a routed enterprise network using Cisco Packet Tracer. The objective was to redesign a flat network architecture into a hierarchical routed topology using VLSM subnetting and static routing while maintaining full inter-department and Internet connectivity.
 
