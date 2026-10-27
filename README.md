@@ -33,3 +33,20 @@ Key outcomes:
 - Network Troubleshooting
 - Technical Documentation
 - Infrastructure Planning
+
+  # Final Network Topology
+  <img width="1258" height="872" alt="Screenshot 2026-10-26 082830" src="https://github.com/user-attachments/assets/2b0cfdde-c673-4658-a399-0951a85846ac" />
+
+# Project Summary
+
+# Results
+The final implementation successfully achieved:
+
+- Communication between all departmental networks.
+- Connectivity between Sales, Administration, Finance, Human Resources, Executive Management and IT Support.
+- Internet access through the border router and ISP connection.
+- Successful communication with external DNS and web services.
+- A future-ready infrastructure design incorporating centralised DHCP and DNS services.
+
+
+
