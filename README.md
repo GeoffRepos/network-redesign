@@ -46,3 +46,11 @@ The final implementation successfully achieved:
 - Connectivity between Sales, Administration, Finance, Human Resources, Executive Management and IT Support.
 - Internet access through the border router and ISP connection.
 - Successful communication with external DNS and web services.
+
+  # Connection Verification
+  <img width="774" height="744" alt="Screenshot 2026-10-26 130015" src="https://github.com/user-attachments/assets/53ac6e84-bff6-48b3-aea5-5def020d0a0f" />
+  <img width="784" height="1100" alt="Screenshot 2026-10-26 125939" src="https://github.com/user-attachments/assets/fdf36ee9-1ab8-4c89-8545-78a9249e5967" />
+  <img width="774" height="732" alt="Screenshot 2026-10-26 125508" src="https://github.com/user-attachments/assets/de0c5d2f-d318-4a7e-b3c1-06c02e6cae3b" />
+
+
+
