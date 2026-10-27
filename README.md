@@ -25,3 +25,11 @@ Key outcomes:
 # Addressing Summary
 <img width="1394" height="594" alt="Screenshot 2026-10-27 123016" src="https://github.com/user-attachments/assets/e65510c2-019e-4076-978a-65b82a65ae3d" />
 
+# Skills Demonstrated
+- Network Design
+- IPv4 Address Planning
+- Cisco Routing
+- Static Route Configuration
+- Network Troubleshooting
+- Technical Documentation
+- Infrastructure Planning
