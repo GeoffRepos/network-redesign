@@ -15,7 +15,6 @@ Key outcomes:
 - VLSM
 - Static Routing
 - Cisco IOS
-- DHCP Relay Design
 
 # Original Flat Network Topology
 <img width="530" height="510" alt="Screenshot 2026-10-27 125954" src="https://github.com/user-attachments/assets/8b82a7e6-6ed5-4d7f-8236-bd926b40b22d" />
