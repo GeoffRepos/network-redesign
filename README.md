@@ -1,5 +1,5 @@
 # Northgate Enterprise Network Redesign
-# Overiew
+# Overview
 This project demonstrates the design and implementation of a routed enterprise network using Cisco Packet Tracer. The objective was to redesign a flat network architecture into a hierarchical routed topology using VLSM subnetting and static routing while maintaining full inter-department and Internet connectivity.
 
 Key outcomes:
@@ -8,18 +8,19 @@ Key outcomes:
 - Static routing implementation
 - Hierarchical router architecture
 - Internet connectivity through a border router
-- DHCP and DNS infrastructure proposal
 
-  # Technologies
+# Technologies
 - Cisco Packet Tracer
 - IPv4 Networking
 - VLSM
 - Static Routing
 - Cisco IOS
 - DHCP Relay Design
-- DNS Infrastructure Planning
 
-# Network Topology
+# Original Flat Network Topology
+<img width="530" height="510" alt="Screenshot 2026-10-27 125954" src="https://github.com/user-attachments/assets/8b82a7e6-6ed5-4d7f-8236-bd926b40b22d" />
+
+# Redesigned Network Topology
 <img width="280" height="352" alt="Screenshot 2026-10-27 122738" src="https://github.com/user-attachments/assets/8e1daf88-95bd-4c3a-b946-cd51c0c5890a" />
 
 # Addressing Summary
@@ -31,7 +32,6 @@ Key outcomes:
 - Cisco Routing
 - Static Route Configuration
 - Network Troubleshooting
-- Technical Documentation
 - Infrastructure Planning
 
   # Final Network Topology
@@ -46,7 +46,3 @@ The final implementation successfully achieved:
 - Connectivity between Sales, Administration, Finance, Human Resources, Executive Management and IT Support.
 - Internet access through the border router and ISP connection.
 - Successful communication with external DNS and web services.
-- A future-ready infrastructure design incorporating centralised DHCP and DNS services.
-
-
-
